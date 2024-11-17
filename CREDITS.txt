@@ -1,0 +1,17 @@
+------------JAK Effect1 audio visualizer------------
+
+Programmed by: Jaroslav "JaroslavK" Koval | 2024
+               with some help of iTut
+
+Giant thanks to iTut for helping me in learning Java!
+
+------------CREDITS TO LIBRARIES & ETC.-------------
+
+Processing 4: https://processing.org | https://github.com/processing/processing4
+Processing Sound: https://github.com/processing/processing-sound
+
+K.jpg's OpenSimplex 2, smooth variant ("SuperSimplex")
+More language ports, as well as legacy 2014 OpenSimplex, can be found here:
+https://github.com/KdotJPG/OpenSimplex2
+
+Sipgate's mp3 to wav converter: https://github.com/sipgate/mp3-wav
